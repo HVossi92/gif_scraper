@@ -15,7 +15,7 @@
 Thumbs.db
 .DS_Store
 
-# local cypress config override
+# local cypress config overridew
 /cypress.local.json
 
 
