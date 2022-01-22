@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup as bS
 
 # Local download directory
-download_dir = '/home/vossi/Downloads/'
+download_dir = '/Users/h.vosskamp/Downloads/'
 # Limit the maximum number of downloads per URL. None = download everything
 maxDownloads = None
 
